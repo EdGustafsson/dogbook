@@ -1,0 +1,50 @@
+.dog-book{
+  margin-left: 1rem;
+}
+
+.dog-delete-button{
+  margin-left: 1rem ;
+}
+
+.profile-container {
+  display: grid;
+  grid-template-columns: 125px auto auto; 
+  grid-gap: 0;
+}
+
+.profile-img{
+  width: 100px;
+  height: 100px;
+  margin-top: 20px;
+}
+
+.profile-info-link{
+  margin-left: 0.5rem ;
+}
+
+.profile-info-cb{
+  margin-left: 2rem ;
+}
+
+.profile-back {
+  align-items: right;
+  text-align:right;
+  padding-right: 2rem;
+}
+
+.add-container {
+  display: grid;
+  grid-template-columns: 125px auto auto; 
+  grid-gap: 0;
+}
+
+#age{
+  width: 2rem;
+}
+
+.add-img{
+  width: 100px;
+  height: 100px;
+  margin-top: 20px;
+}
+
