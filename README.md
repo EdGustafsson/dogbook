@@ -1,7 +1,5 @@
-Skapad från scratch utan create-react-app
+Created from scratch without the use of create-react-app
 
-Öppna terminalen och gå in i dogbook-new
+Use npm install to install all dependencies
 
-Installera alla npm dependencies med "npm install"
-
-Skriv in "npm start" för att starta applikationen
+npm start to run the application
