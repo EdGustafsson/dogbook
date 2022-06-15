@@ -1,5 +1,5 @@
-Created from scratch without the use of create-react-app
+Infrastructure created from scratch without the use of create-react-app.
 
-Use npm install to install all dependencies
+Use npm install to install all dependencies.
 
-npm start to run the application
+npm start to run the application.
